@@ -1,0 +1,58 @@
+body {
+	background: #34343D;
+	color: #CC7272;
+}
+
+.fill-terminal, .terminal-wrapper {
+	height: 100%;
+}
+
+.jumbotron {
+	text-align: left;
+	background: #444369;
+}
+
+.site-title {
+	font-size: 27px;
+	color: #F3F3F3;
+	text-shadow: 1px 2px 0px #AD35A2;
+}
+
+.container .nav-pills .active a {
+	background: #2D0249;
+}
+
+.container .nav-pills a:hover {
+	background: #5B2370;
+	color: #ffffff;
+}
+
+.container .nav-pills .active a:hover {
+	background: #6B6B6B;
+}
+
+.container .breadcrumb.terminal-breadcrumb {
+	background: inherit;
+}
+
+.marketing h4, .marketing h3 {
+	color: #E4E4E4;
+}
+
+.list-group__features {
+	padding-left: 16px;
+	margin-top: 8px;
+	list-style: none;
+}
+
+.list-group__features li:before {
+	content:"\2713\0020";
+}
+
+.form-container {
+	width: 100%;
+}
+
+.package-submit {
+	margin-top: 10px;
+}
